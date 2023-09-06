@@ -1,1 +1,3 @@
 this file will be displaied after cloning repo into local system
+
+git fatal: unable to access 'https://github.com/JagadeeshChikkala/100_days_of_python.git/': SSL certificate problem: unable to get local issuer certificate       git config --global http.sslVerify false   
